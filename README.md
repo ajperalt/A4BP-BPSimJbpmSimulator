@@ -1,5 +1,10 @@
 #A4BP-BPSimJbpmSimulator#
 ##How to install BPSim Simulator##
+
+###Clone this repository in your local pc###
+```
+git clone https://github.com/ajperalt/A4BP-BPSimJbpmSimulator.git
+```
 ###Donwload the code from smalltalkhub###
 ```
 Gofer new smalltalkhubUser: 'ajperalt' project: 'A4BP'; package: 'ConfigurationOfA4BP'; load. 
